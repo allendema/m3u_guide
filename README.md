@@ -1,7 +1,11 @@
 # m3u_guide
 
-Check the URL if it ends with "mono.m3u8" or "chunklist.m3u8" and replace them with 
-"playlist-m3u8" or "index.m3u8".
+Check the URL if it ends with "mono.m3u8" or "chunklist.m3u8"
+
+and replace them with:
+```bash
+"playlist.m3u8" or "index.m3u8"
+```
 
 ##
 Use Logos, example:
