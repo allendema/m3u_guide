@@ -70,3 +70,10 @@ and replace them with:
 ```bash
 "playlist.m3u8" or "index.m3u8"
 ```
+
+##
+In some cases 
+```bash
+tvg-id=""
+```
+is empty, search for the EPG code or remove it for better readability.
